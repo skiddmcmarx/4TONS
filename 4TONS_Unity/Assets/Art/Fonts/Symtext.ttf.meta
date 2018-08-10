@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 0846acc816a3a42489cf5b7bb92f5c31
+timeCreated: 1500052819
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Symtext
+  fontNames:
+  - Symtext
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 26093f08083fbdf469422ca96197c06c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
